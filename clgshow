@@ -1,0 +1,8 @@
+# 23-08-2021
+* fix speed limit (2.4)
+* enable/disable torrent (2.4)
+* add cleaner ram (2.4)
+* add change port OHP (2.4)
+* add vless tcp xtls (direct/origin) (2.4)
+* rewrite menu (2.4)
+* rewrite restart all service (2.4)
